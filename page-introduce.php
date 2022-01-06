@@ -104,6 +104,24 @@ get_header();
           </div>
           <div class="b"><h3 class="fl title bold deco s1"><mark>GONG STAR!</mark></h3></div>
         </div>
+        <div class="intorduce_footer_txt">
+          <div class="intorduce_footer_txt_t">
+          공스타가 새롭게 만든 도시를<br>누리는 주인공이 되어주세요
+          </div>
+          <div class="b"><h3 class="fl title bold deco s1"><mark>GONG STAR!</mark></h3></div>
+        </div>
+        <div class="intorduce_footer_txt">
+          <div class="intorduce_footer_txt_t">
+          공스타가 새롭게 만든 도시를<br>누리는 주인공이 되어주세요
+          </div>
+          <div class="b"><h3 class="fl title bold deco s1"><mark>GONG STAR!</mark></h3></div>
+        </div>
+        <div class="intorduce_footer_txt">
+          <div class="intorduce_footer_txt_t">
+          공스타가 새롭게 만든 도시를<br>누리는 주인공이 되어주세요
+          </div>
+          <div class="b"><h3 class="fl title bold deco s1"><mark>GONG STAR!</mark></h3></div>
+        </div>
       </div>
     </div>
     <div class="c_bg"></div>
